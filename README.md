@@ -31,7 +31,7 @@ dotnet restore
 dotnet run
 
 4. Acesse o Swagger em:
-https://localhost:5001/swagger
+https://localhost:5129/swagger
 
 ---
 
